@@ -41,4 +41,4 @@ def generate_qr_code(link, color_scheme='black', transparent=False, filename='qr
 
 
 # Example usage:
-generate_qr_code("https://www.linkedin.com/company/vanderbilt-vector-lab/", color_scheme='white', transparent=True, filename='vector_lab_qr.png')
+# generate_qr_code("https://www.linkedin.com/company/vanderbilt-vector-lab/", color_scheme='white', transparent=True, filename='vector_lab_qr.png')
